@@ -1,0 +1,6 @@
+Dhaka:<Chittagong,420>,<Sylhet,360>,<Rajshahi,310>,<Dhaka,200>,<Khulna,530>
+Chittagong:<Dhaka,420>,<Sylhet,370>
+Sylhet:<Dhaka,360>,<Chittagong,370>
+Rajshahi:<Bogra,225>,<Khulna,270>
+Bogra:<Dhaka,200>,<Rajshahi,225>
+Khulna:<Dhaka,530>,<Rajshahi,270>
